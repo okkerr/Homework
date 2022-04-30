@@ -10,7 +10,7 @@ make
 ```
 and then run `./main test hw2`. For python tests use `python tryhw2.py`. During testing, you can call all the commands in the same line as:
 ```
-make clean; make; ./main test hw2; python tryhw2.py
+make clean; make; main.exe test hw2; python tryhw2.py
 ```
 
 NOTE: You may (ideally should) directly use functions you wrote in Homework 1 when needed.
